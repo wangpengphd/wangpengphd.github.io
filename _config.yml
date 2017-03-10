@@ -49,7 +49,7 @@ author:
   github: wangpengphd    # eg. daattali
   twitter: pwangum   # eg. daattali
   reddit: yourname    # eg. daattali
-  google-plus: +pwangum   # eg. +DeanAttali or 109424658772469020925
+  google-plus: 104895723777507932284   # eg. +DeanAttali or 109424658772469020925
   linkedin: pwangum  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -65,7 +65,7 @@ footer-links-active:
   facebook: true
   email: true
   twitter: false
-  google-plus: false
+  google-plus: true
   github: true
   reddit: false
   linkedin: false
