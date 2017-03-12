@@ -96,7 +96,7 @@ disqus: "wangpengphd"
 google_analytics: "UA-93558209-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-M9ZL65M"
 
 # Facebook App ID
 # fb_app_id: ""
