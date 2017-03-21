@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flake it till you make it
-image: /img/helloworld.jpeg
+image: /img/hello_world.jpeg
 #bigimg: /img/path.jpg
 comments: false
 ---
