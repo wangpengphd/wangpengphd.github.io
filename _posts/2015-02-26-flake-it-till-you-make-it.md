@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flake it till you make it
-img: /img/path.jpg
+image: /img/path.jpg
 comments: false
 ---
 
