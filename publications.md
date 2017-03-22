@@ -4,9 +4,7 @@ title: Publications
 ---
 
 <body>
-<p>&nbsp;</p>
-<h2 align="center">Publications</h2>
-<p>&nbsp;</p>
+<!--h2 align="center">Publications</h2-->
     
 <h3>Peer-reviewed Articles:</h3>
 <h4><strong><em>Year 2016</em></strong></h4>
