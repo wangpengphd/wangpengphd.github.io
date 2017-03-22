@@ -1,6 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: 
 ---
 
+I am Peng Wang ![Peng](/img/Peng_Wang.png)
