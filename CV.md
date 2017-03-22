@@ -4,3 +4,81 @@ title: Curriculum Vitae
 ---
 
 [Here is my CV](/docs/WANG_Peng_CV.pdf).
+
+<body>
+<p>&nbsp;</p>
+<h2 align="center">Resume</h2>
+<p>&nbsp;</p>
+<ul>
+  <li>
+    <h3>Education</h3>
+  </li>
+</ul>
+<blockquote>
+  <p> 09/2007 - 06/2011 &nbsp; &nbsp; &nbsp; &nbsp; Bachelor of Science - Marine Science - <a href="http://www.ouc.edu.cn" target="_blank">Ocean University of China</a>, Qingdao, China</p>
+  <p> 09/2011 - 05/2016 &nbsp; &nbsp; &nbsp; &nbsp; Doctor of Philosophy - Meteorology and Physical Oceanography - <a href="https://www.miami.edu" target="_blank">University of Miami</a> / <a href="http://www.rsmas.miami.edu" target="_blank">RSMAS</a>, Miami, USA</p>
+  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advisor: <a href="http://www.rsmas.miami.edu/personal/tamay/index2.html" target="_blank">Prof. Tamay M. Ozgokmen</a></p>
+  
+</blockquote>
+<p>&nbsp;</p>
+<ul>
+  <li>
+    <h3>Career</h3>
+    06/2016 - Present  &nbsp; &nbsp; &nbsp; &nbsp; Postdoctoral Associate at <a href="https://www.miami.edu" target="_blank">University of Miami</a> / <a href="http://www.rsmas.miami.edu" target="_blank">RSMAS</a></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+  <li>
+    <h3>Teaching and Field Experiences</h3>
+  </li>
+</ul>
+<blockquote>
+  <p>08/2011 - 03/2016 &nbsp; &nbsp; &nbsp; &nbsp; <em>Research Assistant</em> at University of Miami/RSMAS </p>
+<p>09/2015 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="http://www.fdse.org" target="_blank"> Fluid Dynamics of Sustainability and the Environment"</a> (FDSE Summer School at <a href="http://www.polytechnique.edu" target="_blank">École Polytechnique</a>, France).</p>
+  <p>10/2015 - 11/2015 &nbsp; &nbsp; &nbsp; <em>Teaching Assistant</em> for &quot;Geophysical Fluid Dynamics&quot;  </p>
+  <p>09/2014 (2 days) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Marine field operation in off-coast Miami on R/V Walton Smith</p>
+  <p>07/2014 (1 day) &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; Marine field operation  in off-coast  Miami on R/V Walton Smith  </p>
+  <p> 08/2013 - 12/2013 &nbsp; &nbsp; &nbsp; <em>Teaching Assistant</em> for &quot; Computer Models of Fluid Dynamics&quot;</p>
+  <p> 01/2013 - 05/2013 &nbsp; &nbsp; &nbsp; <em>Teaching Assistant</em> for  &quot;Introduction to Physical Oceanography&quot;</p>
+  <p>07/2014 - Present &nbsp; &nbsp; &nbsp; &nbsp;  Member of American Geophysical Union</p>
+</blockquote>
+<p>&nbsp;</p>
+<ul>
+  <li>
+    <h3>Awards</h3></li>
+</ul>
+<blockquote>
+  <p> Honorary Title of Outstanding Student (Ocean University of China), 2009; 2010 </p>
+  <p> Excellent Academy Scholarship (Ocean University of China), 2008; 2009; 2010 </p>    
+  <p> Excellent Students Scholarship (Ocean University of China), 2009; 2010 </p>
+  <p> First Prize of National Undergraduate Ocean Knowledge Competition, 2008 </p>
+  <p> Second Prize of National Undergraduate Mathematics Contest in Shandong division, 2009 </p>    
+  <p> Successful Participant of National Undergraduate Mathematical Contest in Modeling, 2008 </p>
+  <p> Second Prize of National Biology Olympiad for High School in Shandong division, 2006</p>
+</blockquote>
+<p>&nbsp;</p>
+<ul>
+  <li>
+    <h3>Society Activities</h3>
+  </li>
+</ul>
+<blockquote> 
+<p>03/2015  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Volunteer for RSMAS Auction </p>
+<p>09/2013 - 05/2014 &nbsp; &nbsp; &nbsp; Member of RSMAS/MPO Student Seminar Committee</p>
+<p>04/2014 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Volunteer for &quot;Baynanza Beach Cleanup and Exotic Plant Removal&quot; in Miami</p>
+<p>01/2013 - 03/2016 &nbsp; &nbsp; &nbsp; &nbsp;   Member of RSMAS Garden Club </p>
+</blockquote> 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="../index.html"><strong><<< Home</strong></a><br /></p>
+
+<footer>
+  <p>Last updated on </p>
+  <p id="demo"></p>
+  <script>
+   var d = new Date("November 18, 2016");
+   document.getElementById("demo").innerHTML = d;
+  </script>
+</footer>
+</body>
