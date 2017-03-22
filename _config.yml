@@ -25,7 +25,7 @@ description: University of Miami
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
-  Researches:
+  Researches: "researches"
   Publications: "publications"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
