@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 ---
 
-Here is my [CV](/docs/WANG_Peng_CV.pdf)
+Here is my [CV](/docs/WANG_Peng_CV.pdf).
