@@ -12,10 +12,10 @@ I graduated from the [Ocean University of China](http://www.ouc.edu.cn) in 2011 
 
 
 **_Contact Information:_**  
-Email:  
+_Email:_  
 <a href="mailto:wangpeng@miami.edu">wangpeng@miami.edu</a>
 
-Address:  
+_Address:_  
 4600 Rickenbacker Causeway  
 Ocean Sciences Dept. MSC 315  
 Miami, FL 33149, USA
