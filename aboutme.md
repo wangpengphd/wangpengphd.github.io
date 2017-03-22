@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-![Peng](/img/Peng_Wang.png)  
+![Peng](/img/Peng_Wang.png)
 
 
 
