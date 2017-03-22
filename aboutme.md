@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Peng Wang, Ph.D.
-subtitle: 王鹏
+subtitle: 王 鹏
 ---
 
 ![Peng](/img/Peng_Wang.png)
