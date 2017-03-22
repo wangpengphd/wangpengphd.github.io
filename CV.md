@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-[###Here is my CV.](/docs/WANG_Peng_CV.pdf)
+[<h2>Here is my CV.</h2>(/docs/WANG_Peng_CV.pdf)
 
 <body>
 <p>&nbsp;</p>
