@@ -11,5 +11,5 @@ I graduated from the [Ocean University of China](http://www.ouc.edu.cn) in 2011 
 Email: wangpeng@miami.edu
 
 Address: 4600 Rickenbacker Causeway  
-         Ocean Sciences Dept. MSC 315  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ocean Sciences Dept. MSC 315  
          Miami, FL 33149, USA
