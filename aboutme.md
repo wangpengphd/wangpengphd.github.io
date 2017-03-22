@@ -11,8 +11,7 @@ I graduated from the [Ocean University of China](http://www.ouc.edu.cn) in 2011 
 
 
 
-**_Contact Information:_**
-
+**_Contact Information:_**  
 Email:  
 <a href="mailto:wangpeng@miami.edu">wangpeng@miami.edu</a>
 
