@@ -68,17 +68,5 @@ title: Curriculum Vitae
 <p>04/2014 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Volunteer for &quot;Baynanza Beach Cleanup and Exotic Plant Removal&quot; in Miami</p>
 <p>01/2013 - 03/2016 &nbsp; &nbsp; &nbsp; &nbsp;   Member of RSMAS Garden Club </p>
 </blockquote> 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><a href="../index.html"><strong><<< Home</strong></a><br /></p>
 
-<footer>
-  <p>Last updated on </p>
-  <p id="demo"></p>
-  <script>
-   var d = new Date("November 18, 2016");
-   document.getElementById("demo").innerHTML = d;
-  </script>
-</footer>
 </body>
