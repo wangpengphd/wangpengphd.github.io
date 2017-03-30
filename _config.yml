@@ -24,9 +24,9 @@ description: University of Miami
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "CV"
-  Researches: "researches"
-  Publications: "publications"
+  Resume: "Resume"
+  Research: "researches"
+  Publication: "publications"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
