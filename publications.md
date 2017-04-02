@@ -11,7 +11,6 @@ title: Publications
   <br />
   <li><strong>Wang, P.</strong>, Özgökmen, T. M., 2016. Spiral inertial waves emitted from geophysical vortices. <em>Ocean Modelling</em>, <a href="http://dx.doi.org/10.1016/j.ocemod.2016.01.001" target="_blank"> DOI: 10.1016/j.ocemod.2016.01.001</a>. (<a href="./2016/2016_1_Wang_OM.pdf" target="_blank">PDF</a>)</li>
   <br />
-  <li> Zhai, L., Wang, X., <strong>Wang, P.</strong>, Zhang, B., Miralles-Wilhelm, F., da Silveira, L., Sternberg, L.. Quantification of evaporation based on deuterium excess method indicates discharge gate location and vegetation influences on evaporation in a tropical. <em>Journal of Hydrology</em>, submitted on 12/05/2016.</li>
 </ul>
 <p>&nbsp;</p>
     
