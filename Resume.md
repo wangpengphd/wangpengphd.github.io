@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: <h2> Curriculum Vitae </h2>
 ---
 
 <!--[<h3>Here is my CV.</h3>](/docs/WANG_Peng_CV.pdf)-->
