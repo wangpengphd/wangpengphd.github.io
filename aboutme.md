@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peng Wang, Ph.D.
+title: <h2> Peng Wang, Ph.D. </h2>
 subtitle: <h2> 王 鹏 </h2>
 ---
 
