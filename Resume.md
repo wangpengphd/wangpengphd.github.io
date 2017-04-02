@@ -18,7 +18,6 @@ title: <h2> Curriculum Vitae </h2>
 <blockquote>
   <p> 09/2007 - 06/2011 &nbsp; &nbsp; &nbsp; &nbsp;  Bachelor of Science - Marine Science - <a href="http://www.ouc.edu.cn" target="_blank">Ocean University of China</a>, Qingdao, China</p>
   <p> 09/2011 - 05/2016  &nbsp; &nbsp; &nbsp; &nbsp;  Doctor of Philosophy - Meteorology and Physical Oceanography - <a href="https://www.miami.edu" target="_blank">University of Miami</a> / <a href="http://www.rsmas.miami.edu" target="_blank">RSMAS</a>, Miami, USA</p>
-  <p> Advisor: <a href="http://www.rsmas.miami.edu/personal/tamay/index2.html" target="_blank">Prof. Tamay M. Ozgokmen</a></p>
   
 </blockquote>
 <p>&nbsp;</p>
