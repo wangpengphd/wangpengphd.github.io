@@ -27,10 +27,6 @@ navbar-links:
   Resume: "resume"
   Research: "researches"
   Publication: "publications"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-#    - GitHub Pages: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -70,28 +66,28 @@ footer-links-active:
   google-plus: true
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
   instagram: false
   youtube: false
   spotify: false
-  telephone: false
+  telephone: true
 
 # Select which share links to show in posts
 share-links-active:
   twitter: false
   facebook: true
   google-plus: true
-  linkedin: false
+  linkedin: true
   email: true
   rss: true
   
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "wangpengphd.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
