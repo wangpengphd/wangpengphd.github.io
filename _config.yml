@@ -152,7 +152,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
+#  - CNAME
   - Vagrantfile
 
 # prose.io config
