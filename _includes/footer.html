@@ -14,18 +14,18 @@
             </a>
           </li>
           {% endif %}
-				
-          {% if site.author.github and site.footer-links-active.github %}
+		
+	  {% if site.author.researchgate and site.footer-links-active.researchgate %}
           <li>
-            <a href="https://github.com/{{ site.author.github }}" target="_blank" title="GitHub">
+            <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" target="_blank" title="ResearchGate">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-researchgate fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
           {% endif %}
-		
+				
 	  {% if site.author.linkedin and site.footer-links-active.linkedin %}
           <li>
             <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" title="LinkedIn">
@@ -161,6 +161,17 @@
           </li>
           {% endif %}
 		
+          {% if site.author.github and site.footer-links-active.github %}
+          <li>
+            <a href="https://github.com/{{ site.author.github }}" target="_blank" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+				
           {% if site.footer-links-active.rss %}
           <li>
             <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
