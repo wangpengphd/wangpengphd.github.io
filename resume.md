@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 <!--[<h3>Here is my CV.</h3>](/docs/WANG_Peng_CV.pdf)-->
-# [Here is my full-length **_CV_**.](/docs/WANG_Peng_CV.pdf)
+# [Here is my full-length **_CV_**.](/docs/resume_cv/WANG_Peng_CV.pdf)
 
 <body>
 <p>&nbsp;</p>
