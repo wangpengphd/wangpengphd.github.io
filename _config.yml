@@ -24,7 +24,7 @@ description: University of Miami
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "Resume"
+  Resume: "resume"
   Research: "researches"
   Publication: "publications"
 #  Resources:
