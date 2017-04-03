@@ -116,42 +116,46 @@
       {% if site.author.youtube and site.footer-links-active.youtube %}
           <li>
             <a href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
               </span>
+              <span class="sr-only">YouTube</span>
             </a>
           </li>
           {% endif %}
       {% if site.author.spotify and site.footer-links-active.spotify %}
           <li>
             <a href="https://open.spotify.com/user/{{ site.author.spotify }}" title="Spotify">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-spotify fa-stack-1x fa-inverse"></i>
               </span>
+              <span class="sr-only">Spotify</span>
             </a>
           </li>
        {% endif %}
       {% if site.author.telephone and site.footer-links-active.telephone %}
           <li>
             <a href="tel:{{ site.author.telephone }}" title="Phone">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
               </span>
+              <span class="sr-only">Phone</span>
             </a>
           </li>
         {% endif %}
 		  {% if site.footer-links-active.rss %}
-		  <li>
-			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
-			  <span class="fa-stack fa-lg">
-				<i class="fa fa-circle fa-stack-2x"></i>
-				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-			  </span>
-			</a>
-		  </li>
+          <li>
+            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">RSS</span>
+            </a>
+          </li>
           {% endif %}
         </ul>
         <p class="copyright text-muted">
@@ -164,11 +168,11 @@
 		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
 		  {% endif %}
 	    </p>
-	        <!-- Please don't remove this, keep my open source work credited :) >
-		<p class="theme-by text-muted">
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<!-- p class="theme-by text-muted">
 		  Theme by
 		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-		</p-->
+		</p -->
       </div>
     </div>
   </div>
