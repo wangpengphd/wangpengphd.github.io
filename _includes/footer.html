@@ -36,6 +36,18 @@
             </a>
           </li>
           {% endif %}
+		
+          {% if site.author.youtube and site.footer-links-active.youtube %}
+          <li>
+            <a href="https://www.youtube.com/{{ site.author.youtube }}" target="_blank" title="YouTube">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">YouTube</span>
+            </a>
+          </li>
+          {% endif %}
 				
           {% if site.author.facebook and site.footer-links-active.facebook %}
           <li>
@@ -48,6 +60,17 @@
           </li>
           {% endif %}
 		
+          {% if site.author.google-plus and site.footer-links-active.google-plus %}
+          <li>
+            <a href="https://plus.google.com/{{ site.author.google-plus }}" target="_blank" title="Google+">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+				
 	  {% if site.author.twitter and site.footer-links-active.twitter %}
           <li>
             <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" title="Twitter">
@@ -65,17 +88,6 @@
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-		
-          {% if site.author.google-plus and site.footer-links-active.google-plus %}
-          <li>
-            <a href="https://plus.google.com/{{ site.author.google-plus }}" target="_blank" title="Google+">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
@@ -121,18 +133,6 @@
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
               </span>
-            </a>
-          </li>
-          {% endif %}
-		
-          {% if site.author.youtube and site.footer-links-active.youtube %}
-          <li>
-            <a href="https://www.youtube.com/{{ site.author.youtube }}" target="_blank" title="YouTube">
-              <span class="fa-stack fa-lg" aria-hidden="true">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">YouTube</span>
             </a>
           </li>
           {% endif %}
