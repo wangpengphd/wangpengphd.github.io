@@ -148,11 +148,13 @@ link-tags: false
 
 # Exclude these files from production site
 exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-#  - CNAME
   - Vagrantfile
 
 # prose.io config
@@ -207,10 +209,8 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-#gems:
-#  - jekyll-paginate
+gems:
+  - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-#theme: jekyll-theme-cayman
