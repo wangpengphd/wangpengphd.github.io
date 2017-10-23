@@ -42,7 +42,7 @@ avatar: "/img/Peng_Wang.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Peng Wang
-  email: "wangpeng@miami.edu"
+  email: "pwang@atmos.ucla.edu"
   facebook: pwangum  # eg. daattali
   github: wangpengphd    # eg. daattali
   twitter: pwangum   # eg. daattali
@@ -117,7 +117,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/New York"
+timezone: "America/Los Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
