@@ -44,10 +44,10 @@ author:
   name: Peng Wang
   email: "pwang@atmos.ucla.edu"
   facebook: pwangum  # eg. daattali
-  github: wangpengphd    # eg. daattali
-  twitter: pwangum   # eg. daattali
+#  github: wangpengphd    # eg. daattali
+#  twitter: pwangum   # eg. daattali
   reddit: yourname    # eg. daattali
-  google-plus: 104895723777507932284   # eg. +DeanAttali or 109424658772469020925
+#  google-plus: 104895723777507932284   # eg. +DeanAttali or 109424658772469020925
   linkedin: peng-wang-76684a62  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -56,18 +56,17 @@ author:
   youtube: channel/UCaqtggBAYiAQXukjtj0zzYA # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   researchgate: Peng_Wang99
-  telephone: +1.786.266.3320   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
   rss: true
-  facebook: true
-  email: true
+  facebook: false
+  email: false
   twitter: false
-  google-plus: true
-  github: true
+  google-plus: false
+  github: false
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
@@ -80,12 +79,12 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: false
-  facebook: true
-  google-plus: true
-  linkedin: true
-  email: true
-  youtube: true
-  researchgate: true
+  facebook: false
+  google-plus: false
+  linkedin: false
+  email: false
+  youtube: false
+  researchgate: false
   rss: true
   
 
