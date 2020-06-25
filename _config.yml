@@ -44,10 +44,10 @@ author:
   name: Peng Wang
   email: "pwang@atmos.ucla.edu"
   facebook: pwangum  # eg. daattali
-#  github: wangpengphd    # eg. daattali
-#  twitter: pwangum   # eg. daattali
+  github: wangpengphd    # eg. daattali
+  twitter: pwangum   # eg. daattali
   reddit: yourname    # eg. daattali
-#  google-plus: 104895723777507932284   # eg. +DeanAttali or 109424658772469020925
+  google-plus: 104895723777507932284   # eg. +DeanAttali or 109424658772469020925
   linkedin: peng-wang-76684a62  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -59,7 +59,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   facebook: false
   email: false
   twitter: false
@@ -85,7 +85,7 @@ share-links-active:
   email: false
   youtube: false
   researchgate: false
-  rss: true
+  rss: false
   
 
 # How to display the link to the website in the footer
