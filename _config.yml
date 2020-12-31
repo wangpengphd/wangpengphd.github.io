@@ -71,9 +71,9 @@ footer-links-active:
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: true
+  youtube: false
   spotify: false
-  researchgate: true
+  researchgate: false
   telephone: false
 
 # Select which share links to show in posts
