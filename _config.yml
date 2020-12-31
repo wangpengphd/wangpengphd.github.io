@@ -42,7 +42,7 @@ avatar: "/img/Peng_Wang.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Peng Wang
-  email: "pwang@atmos.ucla.edu"
+  email: "wangpeng@ucla.edu"
   facebook: pwangum  # eg. daattali
   github: wangpengphd    # eg. daattali
   twitter: pwangum   # eg. daattali
@@ -111,7 +111,7 @@ excerpt_length: 60
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: "@"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
