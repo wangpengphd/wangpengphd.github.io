@@ -15,6 +15,7 @@ baseurl: ""
 
 # Name of website
 #title: Dr. Wang
+title:
 
 # Short description of your site
 description: UCLA
