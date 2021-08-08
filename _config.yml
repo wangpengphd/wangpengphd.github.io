@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Dr. Wang
+#title: Dr. Wang
 
 # Short description of your site
 description: UCLA
@@ -24,7 +24,7 @@ description: UCLA
 # List of links in the navigation bar
 navbar-links:
 #  About Me: "aboutme"
-  #CV: "cv"
+#  CV: "cv"
   Research: "research"
   Publications: "publications"
 
