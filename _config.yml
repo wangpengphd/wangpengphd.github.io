@@ -23,8 +23,8 @@ description: UCLA
 
 # List of links in the navigation bar
 navbar-links:
-#About Me: "aboutme"
-#CV: "cv"
+# About Me: "aboutme"
+# CV: "cv"
 Research: "research"
 Publications: "publications"
 
