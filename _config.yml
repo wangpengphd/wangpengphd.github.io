@@ -22,7 +22,7 @@ description: UCLA
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
+navbar-link:
 Research: "research"
 Publications: "publications"
 #About Me: "aboutme"
