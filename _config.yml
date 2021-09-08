@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Dr. Wang
+title: Dr. WANG Peng
 
 # Short description of your site
 description: UCLA
@@ -23,7 +23,7 @@ description: UCLA
 
 # List of links in the navigation bar
 navbar-links:
-#  About Me: "aboutme"
+  #About Me: "aboutme"
   #CV: "cv"
   Research: "research"
   Publications: "publications"
@@ -42,7 +42,7 @@ avatar: "/img/Peng_Wang.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Peng Wang
-  email: "pwang@atmos.ucla.edu"
+  email: "wangpeng@ucla.edu"
   facebook: pwangum  # eg. daattali
   github: wangpengphd    # eg. daattali
   twitter: pwangum   # eg. daattali
@@ -71,9 +71,9 @@ footer-links-active:
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: true
+  youtube: false
   spotify: false
-  researchgate: true
+  researchgate: false
   telephone: false
 
 # Select which share links to show in posts
