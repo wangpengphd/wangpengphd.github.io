@@ -23,7 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  Introduction: "aboutme"
+  Introduction: "introduction"
   #CV: "cv"
   Research: "research"
   Publications: "publications"
